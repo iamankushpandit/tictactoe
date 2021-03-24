@@ -1,3 +1,6 @@
+/**
+Highschool project for creating tic tac toe.
+**/
 #include<iostream.h>
 #include<conio.h>
 #include<graphics.h>
